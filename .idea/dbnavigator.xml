@@ -143,7 +143,6 @@ public class InventoryCRUD {
     <retain-sticky-names value="false" />
   </component>
   <component name="DBNavigator.Project.FileConnectionMappingManager">
-    <mapping file-url="file://$PROJECT_DIR$/target/Test.sql" connection-id="d800b93a-92b8-44ce-93e4-3a1d476b02fb" session-id="MAIN" current-schema="students" />
     <mapping file-url="file://$PROJECT_DIR$/src/main/java/org/example" connection-id="618f8f85-e7a8-49d6-bd0e-40f184e6de36" session-id="MAIN" current-schema="myproduct" />
     <mapping file-url="file://$PROJECT_DIR$/Test.sql" connection-id="d800b93a-92b8-44ce-93e4-3a1d476b02fb" session-id="MAIN" current-schema="inventory_db" />
   </component>

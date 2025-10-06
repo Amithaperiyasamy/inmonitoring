@@ -1,3 +1,4 @@
+
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
@@ -5,7 +6,7 @@ import java.util.List;
 // =========================
 // Product entity class
 // =========================
-class Product {
+ class Product {
     int id;
     String name;
     int quantity;
@@ -44,7 +45,7 @@ interface ProductDAOInterface {
 // =========================
 // DAO Implementation
 // =========================
-class ProductDAOImpl implements ProductDAOInterface {
+ class ProductDAOImpl implements ProductDAOInterface {
     private Connection connection;
 
     public ProductDAOImpl() {

@@ -248,17 +248,17 @@ class InventorySystem {
                         ╔══════════════════════════════════════╗
                         ║        📦 INVENTORY SYSTEM           ║
                         ╠══════════════════════════════════════╣
-                        ║ ⿡  Add Product                     ║
-                        ║ ⿢  View All Products               ║
-                        ║ ⿣  Update Product                  ║
-                        ║ ⿤  Delete Product                  ║
-                        ║ ⿥  Search Product                  ║
-                        ║ ⿦  View Low Stock Products         ║
-                        ║ ⿧  Sort Products                   ║
-                        ║ ⿨  Export to CSV                   ║
-                        ║ ⿩  Clear Screen                    ║
-                        ║ ⿠  Exit                            ║
-                        ╚════════════════════════════════════ 
+                        ║ ⿡  Add Product                       ║
+                        ║ ⿢  View All Products                 ║
+                        ║ ⿣  Update Product                    ║
+                        ║ ⿤  Delete Product                    ║
+                        ║ ⿥  Search Product                    ║
+                        ║ ⿦  View Low Stock Products           ║
+                        ║ ⿧  Sort Products                     ║
+                        ║ ⿨  Export to CSV                     ║
+                        ║ ⿩  Clear Screen                      ║
+                        ║ ⿠  Exit                              ║
+                        ╚  ═══════════════════════════════════ 
                         """ + ConsoleColors.RESET);
                 System.out.print("👉 Enter your choice: ");
                 int choice = Integer.parseInt(sc.nextLine());
